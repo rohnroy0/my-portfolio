@@ -168,3 +168,19 @@ i:hover{
   color: #54ffaa;
   transform: scale(1.5);
 }
+
+.footer {
+  text-align: center;
+  margin-top: 50px;
+  color: #d5f2f2;
+  font-size: 0.9rem;
+}
+
+.empty {
+  width: 60%;
+  min-height: 15rem;
+  margin: 0 auto;
+  padding-top: 6rem;
+  letter-spacing: 2px;
+  overflow: hidden;
+}
