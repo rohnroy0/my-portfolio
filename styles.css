@@ -91,6 +91,7 @@ img{
   height:400px;
   object-fit: cover;
   object-position: center;
+  border-radius: 20px;
 }
 
 .container-two {
@@ -107,6 +108,7 @@ img{
   border: 2px solid white;
   padding: 20px;
   background-color: #548079;
+  border-radius: 20px;
 }
 
 #contact {
