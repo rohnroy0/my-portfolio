@@ -184,3 +184,61 @@ i:hover{
   letter-spacing: 2px;
   overflow: hidden;
 }
+
+#me-section {
+  padding-top: 12vh;
+  width: 100vw;
+  min-height: 100vh;
+ background: linear-gradient(
+    180deg, 
+    #096353, 
+    #0d8f8f
+  );
+}
+
+#achievements{
+  padding-top: 12vh;
+  width: 100vw;
+  min-height: 100vh;
+  background: linear-gradient(
+    360deg, 
+    #096353, 
+    #0d8f8f
+  );
+}
+
+.me {
+  width: 60%;
+  text-align: center;
+  margin: 0 auto;
+  padding: 3rem;
+  letter-spacing: 2px;
+}
+
+h4{
+  text-align: center;
+  font-size: 1.5rem;
+  padding: 2rem;
+  color: #9edeb2;
+}
+
+#me-section h3 {
+  text-align: center;
+  color: #5ee087;
+  font-size: 2rem;
+}
+
+.me-section-empty{
+  width: 100%;
+  padding-top: 5rem;
+}
+
+.skillset{
+  width: 80%;
+  overflow:hidden ;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  padding: 3rem;
+}
