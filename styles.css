@@ -22,7 +22,7 @@
 
 .nav-link {
   padding: 2vw;
-  font-size: 1.3em;
+  font-size: 1rem;
   color: white;
 }
 
@@ -46,13 +46,13 @@ h1 {
   color: white;
   font-weight: bold;
   padding-bottom: 20px;
-  font-size: 3.5rem;
+  font-size: 3rem;
   text-align: center;
 }
 p{
   color: #b8e6e6;
   font-weight: bold;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   text-align: center;
 }
 
@@ -125,7 +125,7 @@ img{
 
 .links{
   width:50%;
-  padding-top: 25vh;
+  padding-top: 16vh;
   height: 100%;
   display: flex;
   justify-content: space-evenly;
@@ -230,7 +230,7 @@ h4{
 
 .me-section-empty{
   width: 100%;
-  padding-top: 5rem;
+  padding-top: 3.5rem;
 }
 
 .skillset{
