@@ -86,7 +86,7 @@ h2 {
 
 }
 
-img{
+.card img{
   width: 100%;
   height: 300px;
   object-fit: cover;
@@ -241,4 +241,28 @@ h4{
   flex-wrap: wrap;
   justify-content: space-evenly;
   padding: 2rem;
+}
+
+.card-cert{
+  width: 500px;
+  height: 400px;
+}
+
+.card-cert img {
+  width: 100%;
+  height: 350px;
+  object-position: center;
+  border: 10px solid white;
+  border-radius: 5px;
+}
+
+.cont-achivement{
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.cs{
+  padding-bottom: 2rem;
 }
