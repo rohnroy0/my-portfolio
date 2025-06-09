@@ -163,3 +163,8 @@ a:hover {
 .card:hover p {
   color: #54ffaa !important;
 }
+
+i:hover{
+  color: #54ffaa;
+  transform: scale(1.5);
+}
