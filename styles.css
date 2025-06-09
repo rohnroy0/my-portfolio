@@ -180,4 +180,9 @@ a:hover {
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     border-color: #54ffaa ;
     z-index: 10;
+    color: #54ffaa !;
+}
+
+.card:hover p {
+  color: #54ffaa !important;
 }
