@@ -183,6 +183,9 @@ i:hover{
   padding-top: 6rem;
   letter-spacing: 2px;
   overflow: hidden;
+  text-align: center;
+  padding-left: 3rem;
+  padding-right: 3rem;
 }
 
 #me-section {
@@ -266,3 +269,25 @@ h4{
 .cs{
   padding-bottom: 2rem;
 }
+
+@media only screen and (max-width: 1000px) {
+  .me {
+    width: 100%; 
+    text-align: center;
+    margin: 0 auto;
+    padding: 3rem;
+    letter-spacing: 2px;
+  }
+  .empty {
+    width: 100%;
+    min-height: 15rem;
+    margin: 0 auto;
+    padding-top: 6rem;
+    letter-spacing: 2px;
+    overflow: hidden;
+    text-align: center;
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+}
+
