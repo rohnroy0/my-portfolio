@@ -247,13 +247,13 @@ h4{
 }
 
 .card-cert{
-  width: 500px;
-  height: 400px;
+  width: 31rem;
+  height: 25rem;
 }
 
 .card-cert img {
   width: 100%;
-  height: 350px;
+  height: 21rem;
   object-position: center;
   border: 10px solid white;
   border-radius: 5px;
@@ -295,6 +295,21 @@ h4{
     height: 200px;
     object-position: center;
     border-radius: 20px;
+  }
+
+  .card-cert img {
+    width: 100%;
+    height: 13rem;
+    object-position: center;
+    border: 10px solid white;
+    border-radius: 5px;
+    overflow: hidden;
+  }
+
+  .card-cert{
+    width: 20rem;
+    height: 13rem;
+    overflow: hidden;
   }
 }
 
