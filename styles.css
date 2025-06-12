@@ -317,5 +317,14 @@ h4{
     flex-direction: column;
     flex-wrap: wrap;
   }
+  
+  img {
+    filter: contrast(100%) brightness(95%);
+  }
+
 }
 
+
+img {
+  filter: contrast(100%) brightness(95%);
+}
